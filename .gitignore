@@ -1,3 +1,13 @@
 .pio
 .vscode
 .DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+/build/
+/managed_components/
+/send_cpu_temp_cpp
+/nohup.out
+/sdkconfig.pandatouch
+/generated_steam_logo.c
+/steam_logo_draw_code.txt

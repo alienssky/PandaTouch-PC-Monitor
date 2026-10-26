@@ -1,0 +1,6 @@
+dependencies:
+  pandatouch:
+    path: pandatouch
+    git: https://github.com/fmauNeko/pandatouch-bsp.git
+  espressif/aht30:
+    version: "^1.0.0"
